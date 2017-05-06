@@ -8,8 +8,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -20,7 +20,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
@@ -113,27 +113,30 @@ header{
 }
 /*PROFILE HTML*/
 #profile_display{
-  margin-left: 2em;
+
   font-size: 1.9em;
     font-family: 'Oswald', sans-serif;
 }
 #comments_display {
-  margin-left: 3em;
+
   width: 80%;
 
 }
 #comments_display h2{
   margin-top: 1em;
-  
-margin-left: 2.1em;
+
+
   font-size: 1.8em;
     font-family: 'Oswald', sans-serif;
 
 }
+#profile_display{
+  margin-top: 2em;
+}
 #comments_display h3{
   margin-top: 1em;
- 
-margin-left: 3.8em;
+
+
   font-size: 1.2em;
     font-family: 'Oswald', sans-serif;
 
@@ -154,7 +157,7 @@ margin-left: 3.8em;
 }
 #input h3{
   margin-top: 1em;
-  
+
 
   font-size: 1.1em;
     font-family: 'Oswald', sans-serif;
