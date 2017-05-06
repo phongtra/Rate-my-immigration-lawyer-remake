@@ -1,5 +1,6 @@
 $(document).ready(function(){
 const submit = document.getElementById('submit_button');
+
 submit.addEventListener('click',function(){
 	const review = document.getElementById('input_review');
 	const parragraph = document.createElement('p');
