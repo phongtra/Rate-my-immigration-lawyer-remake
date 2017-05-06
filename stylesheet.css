@@ -1,0 +1,46 @@
+html {
+  background-color: #c2c2a3;
+}
+.main_page_title {
+  text-align: center;
+}
+#last_name {
+  margin-top: 20px;
+  display: block;
+}
+.button {
+  padding: 5px;
+  text-decoration: none;
+  margin-left: 30px;
+  background-color: green;
+  color: white;
+  font-family: Arial;
+  font-size: 20px;
+  width: 40px;
+  }
+#main_display_1{
+  float: left;
+  width: 50%;
+  margin-left: 300px;
+}
+.name_search{
+
+  width:50%;
+}
+.location_search{
+
+  width: 50%;
+}
+
+.top_stories {
+  font-style: bold;
+  font-size: 20px;
+}
+#main_display_2 {
+
+  margin-left: 600px;
+  width: 50%
+}
+.whole_page {
+  display: inline-block;
+}
