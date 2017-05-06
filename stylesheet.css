@@ -118,7 +118,7 @@ header{
     font-family: 'Oswald', sans-serif;
 }
 #comments_display {
-  margin-left: 2em;
+  margin-left: 3em;
   width: 80%;
 
 }
@@ -136,6 +136,11 @@ margin-left: 2.1em;
 margin-left: 3.8em;
   font-size: 1.2em;
     font-family: 'Oswald', sans-serif;
+
+}
+#comments_display h4{
+  font-size: 1.2em;
+      font-family: 'Oswald', sans-serif;
 
 }
 /*REVIEW COMMENTS*/
@@ -159,4 +164,27 @@ margin-left: 3.8em;
   width: 20em;
 }
 
-
+/*LOCATION*/
+#location_info h1{
+  margin-top: 1em;
+  font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+}
+#location_info h2{
+   font-size: 1.2em;
+}
+.profile_display2 a{
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+}
+.profile_display2 h2{
+  font-size: 1.3em;
+  text-decoration: none;
+  color: black;
+}
+.profile_display2 h3{
+  font-size: 1.1em;
+  text-decoration: none;
+  color: black;
+}
